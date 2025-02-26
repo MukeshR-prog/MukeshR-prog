@@ -10,17 +10,15 @@ Feel free to explore more about me.....
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bannari Amman Institute Of Technology**
+- 🔭 I’m currently studying on **Bannari Amman Institute Of Technology**
 
 - 🌱 I’m currently learning **Fullstack and AI**
 
-- 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
-
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **mukeshr1855@gmail.com**
 
-- ⚡ Fun fact **ChatGPT is currently free to use......**
+- ⚡ Fun fact **ChatGPT and Deepseek are currently free to use......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
