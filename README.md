@@ -22,7 +22,7 @@ Feel free to explore more about me.....
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mukesh-r-189b8a28b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mukesh1855/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
