@@ -42,6 +42,43 @@ Feel free to explore more about me.....
 <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,postman,docker&theme=dark" />
 
 </div>
+## 🚀 Live Projects
+
+<p align="center">
+
+<a href="https://mindmock.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🧠 MindMock-AI Interview Platform-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://retail-analyzer.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🛒 Retail Analyzer-Business Insights-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://cashflo-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/💰 CashFlo-Finance Tracker-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://card-smart.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/💳 Card Smart-Card Manager-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://chatterbox11.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/💬 ChatterBox-Real Time Chat-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://chatbot-001-mukesh.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🤖 AI Chatbot-Conversational AI-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://distributer-1.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/📦 Distributor-System-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://herbify-web.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌿 Herbify-Web Platform-1f1f1f?style=for-the-badge" />
+</a>
+
+</p>
 
 ## 📊 GITHUB ANALYTICS
 
