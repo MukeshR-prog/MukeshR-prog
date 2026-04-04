@@ -86,19 +86,6 @@ Feel free to explore more about me.....
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MukeshR-prog&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshR-prog&theme=radical&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshR-prog&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
 <!-- Profile Summary (auto theme) -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshR-prog&theme=default" width="95%" />
 
