@@ -42,8 +42,9 @@ Feel free to explore more about me.....
 <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,postman,docker&theme=dark" />
 
 </div>
-## 🚀 Live Projects
 
+<br></br>
+## 🚀 Live Projects
 <p align="center">
 
 <a href="https://mindmock.vercel.app/" target="_blank">
@@ -79,6 +80,7 @@ Feel free to explore more about me.....
 </a>
 
 </p>
+<br></br>
 
 ## 📊 GITHUB ANALYTICS
 
@@ -90,6 +92,21 @@ Feel free to explore more about me.....
 <br/>
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshR-prog&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<!-- Profile Summary (auto theme) -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshR-prog&theme=default" width="95%" />
+
+<br/><br/>
+
+<!-- Stats + Streak (auto theme) -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MukeshR-prog&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=MukeshR-prog&theme=default&hide_border=true" width="48%" />
 
 </div>
 
