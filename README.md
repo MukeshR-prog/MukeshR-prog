@@ -33,13 +33,13 @@ Feel free to explore more about me.....
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp&theme=dark" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,mui,redux&theme=dark" />
 
 ### ⚙ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres,prisma,fastapi,graphql,supabase&theme=light" />
 
 ### ☁ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,postman,docker,figma&theme=dark" />
 
 </div>
 
