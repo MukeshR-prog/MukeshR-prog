@@ -45,40 +45,51 @@ Feel free to explore more about me.....
 
 <br></br>
 ## 🚀 Live Projects
+
 <p align="center">
+  <a href="https://mindmock.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🧠%20MindMock-AI%20Interview%20Platform-1f1f1f?style=for-the-badge" alt="MindMock" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://retail-analyzer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🛒%20Retail%20Analyzer-Business%20Insights-1f1f1f?style=for-the-badge" alt="Retail Analyzer" />
+  </a>
+</p>
 
-<a href="https://mindmock.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🧠 MindMock-AI Interview Platform-1f1f1f?style=for-the-badge" />
-</a>
+<p align="center">
+  <a href="https://cashflo-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💰%20CashFlo-Finance%20Tracker-1f1f1f?style=for-the-badge" alt="CashFlo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://card-smart.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💳%20Card%20Smart-Card%20Manager-1f1f1f?style=for-the-badge" alt="Card Smart" />
+  </a>
+</p>
 
-<a href="https://retail-analyzer.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🛒 Retail Analyzer-Business Insights-1f1f1f?style=for-the-badge" />
-</a>
+<p align="center">
+  <a href="https://chatterbox11.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20ChatterBox-Real%20Time%20Chat-1f1f1f?style=for-the-badge" alt="ChatterBox" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://chatbot-001-mukesh.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20AI%20Chatbot-Conversational%20AI-1f1f1f?style=for-the-badge" alt="AI Chatbot" />
+  </a>
+</p>
 
-<a href="https://cashflo-dev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/💰 CashFlo-Finance Tracker-1f1f1f?style=for-the-badge" />
-</a>
+<p align="center">
+  <a href="https://distributer-1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/📦%20Distributor-System-1f1f1f?style=for-the-badge" alt="Distributor System" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://herbify-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌿%20Herbify-Web%20Platform-1f1f1f?style=for-the-badge" alt="Herbify" />
+  </a>
+</p>
 
-<a href="https://card-smart.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/💳 Card Smart-Card Manager-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://chatterbox11.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/💬 ChatterBox-Real Time Chat-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://chatbot-001-mukesh.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🤖 AI Chatbot-Conversational AI-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://distributer-1.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/📦 Distributor-System-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://herbify-web.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌿 Herbify-Web Platform-1f1f1f?style=for-the-badge" />
-</a>
-
+<p align="center">
+  <a href="https://rsk-erp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/⚙️%20RSK%20ERP-ERP%20Application-1f1f1f?style=for-the-badge" alt="RSK ERP" />
+  </a>
 </p>
 <br></br>
 
